@@ -1,2 +1,2 @@
-# alifiharafi-research.github.io
+# alifiharafi.github.io
 Personal Research Assets
